@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Jupyter
+.ipynb_checkpoints/
+# Generated outputs and downloaded assets
+runs/
+outputs/
+checkpoints/
+models/
+weights/
+datasets/
+dataset/
+data/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+*.7z
+.DS_Store
